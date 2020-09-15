@@ -1,0 +1,5 @@
+CRC020199.1
+==================================
+
+The negative values seem to simply be calibration issues with the meter and have been set to zero. All negative value are only slightly negative. Min value is -0.7.
+There are three sets of days with missing data: 2020-06-07 to 2020-06-9, 2020-05-03 to 2020-05-05, and 2020-10-18 to 2020-10-20.
